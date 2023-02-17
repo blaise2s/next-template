@@ -8,6 +8,8 @@
     "naumovs.color-highlight",
     "editorconfig.editorconfig",
     "eamodio.gitlens",
-    "pkief.material-icon-theme"
+    "pkief.material-icon-theme",
+    "csstools.postcss",
+    "bradlc.vscode-tailwindcss"
   ]
 }
