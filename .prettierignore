@@ -1,0 +1,8 @@
+.yarn
+build
+yarn.lock
+*.ico
+*.png
+*.svg
+.eslintcache
+.next
